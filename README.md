@@ -14,6 +14,7 @@ The Healthy Life App is an all-in-one platform designed to empower individuals i
 - Progress Analytics
 
 ## _Goals_
+
 ## _Goals_
 
 - Personalized Nutrition Plans: Tailored meal plans based on user preferences, dietary restrictions, and health goals.
@@ -25,13 +26,15 @@ The Healthy Life App is an all-in-one platform designed to empower individuals i
 - get fit and be active
 - play sport
 
-
-
 updatee emma
 updatee emma2
-## _Goals_
 
 ## _Goals_
 
 ## _Goals_
-git 
+
+## _Goals_
+
+git
+
+emaaaaa
