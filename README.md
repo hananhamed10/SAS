@@ -14,12 +14,11 @@ The Healthy Life App is an all-in-one platform designed to empower individuals i
 - Progress Analytics
 
 ## _Goals_
+## _Goals_
 
-- Personalized Nutrition Plans: Tailored meal plans based on user preferences, dietary restrictions, and health goals.
-- Fitness Tracking: Tools for logging workouts, tracking progress, and providing exercise recommendations
-- Health Metrics Monitoring: Integration with wearables to track metrics like heart rate, sleep patterns, and daily activity.
-- Educational Resources: Articles, videos, and tips on healthy living, stress management, and mindfulness.
-- Community Support: Social features to connect with like-minded individuals and share progress.
-- Progress Analytics: Visual dashboards to track improvements in diet, fitness, and mental health over time.
-- get fit and be active
-- play sport
+## _Goals_
+
+## _Goals_
+
+## _Goals_
+git 
